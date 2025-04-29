@@ -80,6 +80,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelGd300&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+## 🚀 Proyectos
+
+<div align="center">
+  <p>Te invito a explorar mis repositorios y proyectos. Si deseas información adicional de alguno, puedes contactarme o ver más información de cada uno en mi perfil de LinkedIn. Tengo muchas ideas y soluciones por implementar, sigueme para estar al tanto de mis proyectos futuros.</p>
+
+  <a href="https://github.com/EmanuelGd300?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-Ver todos los repositorios-171515?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos los repositorios" />
+  </a>
+</div>
+
 ## 📫 Contáctame
 
 <div align="center">
