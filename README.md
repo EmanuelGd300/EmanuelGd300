@@ -69,17 +69,6 @@
 <!-- Espacio para tu GIF horizontal -->
 <img src="https://giffiles.alphacoders.com/133/13363.gif" width="100%" height="450px" alt="Emanuel Gómez Díaz" />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanuelGd300&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelGd300&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelGd300&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ## 🚀 Proyectos
 
 <div align="center">
@@ -88,6 +77,11 @@
   <a href="https://github.com/EmanuelGd300?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-Ver todos los repositorios-171515?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos los repositorios" />
   </a>
+
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelGd300&layout=compact&theme=radical" alt="Top Languages" />
+    </div>
 </div>
 
 ## 📫 Contáctame
