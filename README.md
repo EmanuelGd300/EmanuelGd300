@@ -11,7 +11,7 @@
       <p>
         <b>Soy un desarrollador Fullstack Web y analista de software</b> con formación técnica en programación y tecnología en análisis y
         desarrollo de software. Especializado en el manejo de un stack frontend que incluye <b> React.js, Material UI, Bootstrap, CSS,
-        HTML, y WordPress,</b>b> así como diversas librerías gráficas. En el ámbito backend, domino tecnologías como <b>JavaScript,
+        HTML, y WordPress,</b> así como diversas librerías gráficas. En el ámbito backend, domino tecnologías como <b>JavaScript,
         TypeScript, Python, Java, C#, Node.js, y Yarn.</b> Además, tengo experiencia en la gestión de bases de datos relacionales y no
         relacionales como PostgreSQL, MySQL y Firebase. Mis habilidades se extienden a la arquitectura de software, manejo de
         servidores, documentación técnica y la implementación de metodologías ágiles, con un enfoque en el prototipado eficiente y la
