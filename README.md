@@ -81,14 +81,11 @@ Puedes explorar mis repositorios para ver un poco de lo que he realizado.
 </a>
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelGd300&layout=compact&theme=radical"/>
-
 </div>
 
 ---
 
-# 📫 Contacto
+# Contacto
 
 <div align="center">
 
