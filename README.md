@@ -32,7 +32,7 @@ También me apasionan los **videojuegos, el pixel art, el arte y las estéticas 
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
