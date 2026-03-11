@@ -20,6 +20,28 @@ Me interesa especialmente el **desarrollo Frontend**, la creación de interfaces
 
 También me apasionan los **videojuegos, el pixel art, el arte y las estéticas del internet**, intereses que influyen mucho en mi forma de pensar las interfaces.
 
+<br>
+
+<div align="center">
+
+<a href="https://github.com/EmanuelGd300?tab=repositories">
+<img src="https://img.shields.io/badge/Ver_mis_repositorios-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:emmanuelgodi22@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/egodi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://689f8d330b54b40008d1d849--emanuel-gomez-diaz.netlify.app/">
+<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
+</a>
+
+</div>
+
 </td>
 
 <td width="40%" align="center">
@@ -67,40 +89,3 @@ También me apasionan los **videojuegos, el pixel art, el arte y las estéticas 
 ---
 
 <img src="https://giffiles.alphacoders.com/133/13363.gif" width="100%" height="420px"/>
-
----
-
-# Proyectos
-
-Puedes explorar mis repositorios para ver un poco de lo que he realizado.
-
-<div align="center">
-
-<a href="https://github.com/EmanuelGd300?tab=repositories">
-<img src="https://img.shields.io/badge/Ver_repositorios-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br>
-</div>
-
----
-
-# Contacto
-
-<div align="center">
-
-<a href="mailto:emmanuelgodi22@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/egodi/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://689f8d330b54b40008d1d849--emanuel-gomez-diaz.netlify.app/">
-<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
-</a>
-
-</div>
-
----
