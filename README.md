@@ -10,15 +10,14 @@
 
 ## Sobre mí
 
-Soy **Frontend Developer con experiencia Full-Stack**, enfocado en la construcción de **interfaces web claras, funcionales y centradas en el usuario**.
+Soy un **Full Stack Software Developer** con una fuerte inclinación y preferencia hacia el **desarrollo Frontend** y la **experiencia de usuario**.
 
-Disfruto transformar necesidades reales en productos interactivos, integrando **diseño, lógica y experiencia de usuario** para crear aplicaciones intuitivas y mantenibles.
+Mi área favorita es el **desarrollo Frontend** ya que lo considero incluso una **forma de expresión artística** y de dejar una huella personal en el extenso mar que es el internet y la web, por eso mismo me interesa mucho conocer nuevas herramientas, librerías y funciones y cómo poder integrarlas en un entorno productivo y en los proyectos en los que trabajo, especialmente enfocado y pensando en el **usuario final** y su **experiencia** en el producto que recibiría.
 
-He trabajado desarrollando interfaces con **Vue, Angular y React**, integradas con APIs y servicios backend en **Laravel y Python**.
+Disfruto especialmente construir **interfaces claras, funcionales y visualmente cuidadas**, donde el diseño y la lógica del sistema trabajan juntos para crear **productos intuitivos y agradables de usar**. He participado en proyectos empresariales desarrollando interfaces con **Vue, Angular y React**, conectadas a servicios backend en **Laravel y Python**, lo que me ha permitido entender tanto la lógica del sistema como la importancia de una buena experiencia para el usuario final.
 
-Me interesa especialmente el **desarrollo Frontend**, la creación de interfaces visuales y la construcción de productos interactivos.
+Soy una persona **apasionada por el desarrollo de software**, me encanta explorar tecnologías y librerías que faciliten el desarrollo o que permitan llevar una aplicación al límite. Amo los **videojuegos**, el **surrealismo**, el **pixel art**, el **3D**, el **arte en general**, la **música**, el **diseño** y mi **trabajo** <3.
 
-También me apasionan los **videojuegos, el pixel art, el arte y las estéticas del internet**, intereses que influyen mucho en mi forma de pensar las interfaces.
 
 <br>
 
